@@ -34,7 +34,7 @@ extra small device satrts
 
     /* banner part ends */
     #banner {
-        height: 788px;
+        height: 794px;
     }
     #banner .banner-text {
         padding-top: 393px;
@@ -67,11 +67,11 @@ extra small device satrts
         padding-bottom: 40px !important;
     }
     #about .about-img {
-        width: 322px;
+        width: 332px;
         height: 300px;
     }
     #about .about-img img {
-        margin-top: -6px;
+        margin-top: -16px;
         margin-left: 43px;
         width: 91%;
     }
@@ -124,11 +124,11 @@ extra small device satrts
     }
     #service .prev-arrow {
         bottom: 282px;
-        left: 159px;
+        left: 179px;
     }
     #service .next-arrow {
         bottom: 282px;
-        right: 100px;
+        right: 107px;
     }
     #service .service-item::before,
     #service .service-item::after
@@ -160,17 +160,17 @@ extra small device satrts
     }
     #work .work-main .work-item img {
         width: 90%;
-        margin-left: 24px;
+        margin-left: 17px;
         margin-bottom: 30px !important;
     }
     #work .work-main .work-item .work-overlay {
         height: 92%;
         width: 100%;
-        margin-left: 25px;
+        margin-left: 17px;
     }
     #work .work-main .work-item .work-overlay i {
         font-size: 35px;
-        margin-top: 82px;
+        margin-top: 160px;
     }
     /* work part ends */
 
@@ -188,9 +188,9 @@ extra small device satrts
         margin-bottom:30px !important;
     }
     #skills .progress-content {
-        width: 294px;
+        width: 307px;
         height: 665px;
-        margin-left: 28px;
+        margin-left: 13px;
     }
     #skills .progress {
         width: 95%;
