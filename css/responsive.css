@@ -34,7 +34,7 @@ extra small device satrts
 
     /* banner part ends */
     #banner {
-        height: 794px;
+        height: 778px;
     }
     #banner .banner-text {
         padding-top: 393px;
@@ -244,6 +244,21 @@ extra small device satrts
     #education .education-item .edu-text p {
         font-size: 14px;
     }
+    #education .prev-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        top: 274px;
+        left: 95%;
+    }
+    #education .next-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        bottom: 6px;
+        left: 82%;
+    }
+    #education .line::before{
+        display:none;
+    }
     /* experience part ends */
 
     /* pricing part starts */
@@ -383,18 +398,18 @@ extra small device ends
         border-color: #fff;
     }
     .navbar-expand-lg .navbar-nav .nav-link {
-        padding-left: 104px;
+        padding-left: 250px;
         font-size: 15px;
     }
     .navbar-expand-lg .navbar-nav .nav-link::after {
         top: 35px;
-        left: 104px;
+        left: 250px;
     }
     .navbar-expand-lg .navbar-nav .nav-link:hover::after {
         width: 48px;
     }
     .navbar form button {
-        margin-left: 110px;
+        margin-left: 250px;
     }
     .navbar form button{
         margin-bottom: 20px !important;
@@ -535,13 +550,13 @@ extra small device ends
         margin-bottom: 30px !important;
     }
     #work .work-main .work-item .work-overlay {
-        height: 92%;
+        height: 90%;
         width: 100%;
         margin-left: 25px;
     }
     #work .work-main .work-item .work-overlay i {
         font-size: 35px;
-        margin-top: 82px;
+        margin-top: 110px;
     }
     /* work part ends */
 
@@ -614,6 +629,21 @@ extra small device ends
     #education .education-item .edu-text p {
         font-size: 14px;
         padding-bottom: 20px !important;
+    }
+    #education .line::before{
+        display:none;
+    }
+    #education .prev-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        top: 252px;
+        left: 90%;
+    }
+    #education .next-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        bottom: 6px;
+        left: 82%;
     }
     /* experience part ends */
 
@@ -756,18 +786,18 @@ extra small device ends
         border-color: #fff;
     }
     .navbar-expand-lg .navbar-nav .nav-link {
-        padding-left: 104px;
+        padding-left: 334px;
         font-size: 15px;
     }
     .navbar-expand-lg .navbar-nav .nav-link::after {
         top: 35px;
-        left: 104px;
+        left: 334px;
     }
     .navbar-expand-lg .navbar-nav .nav-link:hover::after {
         width: 48px;
     }
     .navbar form button {
-        margin-left: 110px;
+        margin-left: 334px;
     }
     .navbar form button{
         margin-bottom: 20px !important;
@@ -914,7 +944,7 @@ extra small device ends
     }
     #work .work-main .work-item .work-overlay i {
         font-size: 35px;
-        margin-top: 82px;
+        margin-top: 181px;
     }
     /* work part ends */
 
@@ -954,6 +984,7 @@ extra small device ends
     #education {
         padding-top: 35px;
         margin-bottom: 70px !important;
+        padding-bottom: 29px !important;
     }
     #education .education-head h5{
         font-size: 18px;
@@ -962,13 +993,6 @@ extra small device ends
         margin-top: 10px;
         margin-bottom: 30px !important;
         font-size: 21px;
-    }
-    /* #education .education-item .icon::after,
-    #education .education-item .icon::before{
-        display: none;
-    }
-    #education .education-head h5::after {
-        display: none;
     }
     #education .education-item .icon {
         margin-left: 110px;
@@ -983,19 +1007,30 @@ extra small device ends
     #education .education-item .edu-text h4 {
         margin-top: 23px;
         margin-bottom: 18px !important;
-        font-size: 22px;
+        font-size: 21px;
     }
     #education .education-item .edu-text p {
         font-size: 14px;
         padding-bottom: 20px !important;
-    } */
+    }
     #education .education-item .edu-text{
         margin-left:75px;
     }
-
-
-
-
+    #education .line::before{
+        display:none;
+    }
+    #education .prev-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        top: 794px;
+        left: 59%;
+    }
+    #education .next-arrow {
+        border: 1px solid #ed1d5e;
+        color: #3872b9;
+        bottom: 1px;
+        left: 53%;
+    }
     /* experience part ends */
 
     /* pricing part starts */

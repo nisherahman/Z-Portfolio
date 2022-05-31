@@ -437,7 +437,7 @@ a{
 #education .education-head h5{
 	color:#403951;
 	position: relative;
-	z-index:15;
+	z-index:1;
 }
 /* #education .education-head h5::after {
 	content: '';
@@ -447,7 +447,7 @@ a{
 	position: absolute;
 	top: 217px;
 	left: 558px;
-	z-index: 70;
+	z-index: -1;
 } */
 #education .education-head h4{
 	margin-top:15px;
@@ -470,7 +470,22 @@ a{
 }
 #education .education-item .icon{
 	margin-left:65px;
+	/* position: relative;
+	z-index:1; */
+}
+#education .line{
 	position: relative;
+	z-index:1;
+}
+#education .line::before {
+	content: '';
+	width: 1px;
+	height: 901px;
+	background: #ed1d5e;
+	position: absolute;
+	top: -1135px;
+	left: 570px;
+	z-index: -1;
 }
 /* #education .education-item .icon::before {
 	content: '';
