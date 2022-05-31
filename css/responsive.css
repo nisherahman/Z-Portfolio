@@ -34,7 +34,7 @@ extra small device satrts
 
     /* banner part ends */
     #banner {
-        /* height: 712px; */
+        height: 788px;
     }
     #banner .banner-text {
         padding-top: 393px;
@@ -67,13 +67,13 @@ extra small device satrts
         padding-bottom: 40px !important;
     }
     #about .about-img {
-        width: 300px;
+        width: 322px;
         height: 300px;
     }
     #about .about-img img {
-        margin-top: -13px;
-        margin-left: 2px;
-        width: 100%;
+        margin-top: -6px;
+        margin-left: 43px;
+        width: 91%;
     }
     #about .about-text {
         margin-left: 15px;
@@ -190,6 +190,7 @@ extra small device satrts
     #skills .progress-content {
         width: 294px;
         height: 665px;
+        margin-left: 28px;
     }
     #skills .progress {
         width: 95%;
