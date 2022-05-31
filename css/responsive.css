@@ -963,7 +963,7 @@ extra small device ends
         margin-bottom: 30px !important;
         font-size: 21px;
     }
-    #education .education-item .icon::after,
+    /* #education .education-item .icon::after,
     #education .education-item .icon::before{
         display: none;
     }
@@ -972,6 +972,7 @@ extra small device ends
     }
     #education .education-item .icon {
         margin-left: 110px;
+        margin-bottom: 15px !important;
     }
     #education .education-item .edu-text h5 {
         margin-top: 20px;
@@ -980,14 +981,21 @@ extra small device ends
         font-size: 15px;
     }
     #education .education-item .edu-text h4 {
-        margin-top: 18px;
+        margin-top: 23px;
         margin-bottom: 18px !important;
         font-size: 22px;
     }
     #education .education-item .edu-text p {
         font-size: 14px;
         padding-bottom: 20px !important;
+    } */
+    #education .education-item .edu-text{
+        margin-left:75px;
     }
+
+
+
+
     /* experience part ends */
 
     /* pricing part starts */
