@@ -53,7 +53,7 @@ extra small device satrts
         font-size: 15px;
     }
     #banner .banner-img {
-        padding-top: 0px;
+        padding-top: 31px;
     }
     #banner .banner-shape {
         top: -53px;
@@ -245,13 +245,13 @@ extra small device satrts
         font-size: 14px;
     }
     #education .prev-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         top: 274px;
         left: 95%;
     }
     #education .next-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         bottom: 6px;
         left: 82%;
@@ -634,13 +634,13 @@ extra small device ends
         display:none;
     }
     #education .prev-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         top: 252px;
         left: 90%;
     }
     #education .next-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         bottom: 6px;
         left: 82%;
@@ -1020,13 +1020,13 @@ extra small device ends
         display:none;
     }
     #education .prev-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         top: 794px;
         left: 59%;
     }
     #education .next-arrow {
-        border: 1px solid #ed1d5e;
+        border: 1px solid #59b6cb;
         color: #3872b9;
         bottom: 1px;
         left: 53%;

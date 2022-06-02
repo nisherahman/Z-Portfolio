@@ -38,7 +38,7 @@ $(document).ready(function(){
       {
         breakpoint: 992,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 2,
           slidesToScroll: 1,
           arrows:true,
         }
@@ -74,7 +74,7 @@ $(document).ready(function(){
       arrowsColor:'#403951;',
     });
 
-    //slick slider
+    //education slider
     $('.education-slider').slick({
      arrows:true,
      slidesToShow:5,

@@ -201,11 +201,11 @@ a{
 }
 #about .about-text {
 	margin-left: 75px;
-	margin-top: 38px;
+	margin-top: -9px;
 }
-#about .about-text p:first-of-type{
-	margin-top:40px;
-	margin-bottom:35px !important;
+#about .about-text p:first-of-type {
+	margin-top: 40px;
+	margin-bottom: 20px !important;
 }
 #about .about-text a{
 	margin-top:38px;
@@ -238,7 +238,7 @@ a{
 	position: relative;
 	z-index:1;
 }
-#service .service-item::after {
+/* #service .service-item::after {
 	content: '';
 	width: 100%;
 	height: 6px;
@@ -259,7 +259,7 @@ a{
 }
 #service .service-item:hover{
 	box-shadow: 0px 0px 8px 0px rgba(88, 182, 202,0.36);
-}
+} */
 #service .service-item img {
 	margin-top: 15px;
 	margin-bottom: 15px !important;
@@ -481,7 +481,7 @@ a{
 	content: '';
 	width: 1px;
 	height: 901px;
-	background: #ed1d5e;
+	background: #403951;
 	position: absolute;
 	top: -1135px;
 	left: 570px;
@@ -563,6 +563,10 @@ a{
 	background: #54b0e3;
 	position: relative;
 	height: 200px;
+	transition:all linear 0.4s;
+}
+#pricing .price-item .price-text:hover{
+	background:#59b6cb;
 }
 #pricing .price-item .price-text h4{
 	padding-top:35px;
@@ -584,7 +588,7 @@ a{
 	transition:all linear 0.4s;
 }
 #pricing .price-item .price-text .price-circle:hover{
-	background:#316197;
+	background:#59b6cb;
 }
 #pricing .price-item .price-detail{
     background:#316197;
@@ -603,7 +607,7 @@ a{
 	transition:all linear 0.4s;
 }
 #pricing .price-item .price-detail a:hover{
-	background:#5a9ad3;
+	background:#59b6cb;
 }
 /*  pricing css ends */
 
