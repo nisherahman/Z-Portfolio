@@ -774,7 +774,7 @@ extra small device ends
  medium device css starts
 =========================*/
 @media (min-width:768px) and (max-width:991px){
-      /* navbar part starts */
+    /* navbar part starts */
       .navbar {
         top: 25px;
     }
@@ -1155,3 +1155,13 @@ extra small device ends
 /*========================
  medium device css ends
 =========================*/
+
+/*===============================
+extra extra large  device starts
+=================================*/
+@media (min-width: 1200px) and (max-width:1399px) {
+
+}
+/*===============================
+extra extra large  device ends
+=================================*/
