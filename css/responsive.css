@@ -55,9 +55,8 @@ extra small device satrts
     #banner .banner-img {
         padding-top: 31px;
     }
-    #banner .banner-shape {
-        top: -53px;
-        left: -259px;
+    #banner .banner-shape{
+        display:none;
     }
     /* banner part ends */
 
@@ -1157,11 +1156,11 @@ extra small device ends
 =========================*/
 
 /*===============================
-extra extra large  device starts
+extra large  device starts
 =================================*/
 @media (min-width: 1200px) and (max-width:1399px) {
 
 }
 /*===============================
-extra extra large  device ends
+extra large  device ends
 =================================*/
